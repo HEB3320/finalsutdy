@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9E0A-3E18
+
+ Directory of C:\Users\engin\Desktop\gitGithub
+
+06/07/2020  05:32 PM    <DIR>          .
+06/07/2020  05:32 PM    <DIR>          ..
+06/07/2020  02:28 PM               118 Aylin.java
+06/07/2020  04:46 PM                38 aylin.txt
+06/07/2020  02:20 PM               399 engin.html
+06/07/2020  05:17 PM                 0 final.txt
+06/07/2020  05:32 PM                 0 hakkari.txt
+06/07/2020  05:12 PM               499 tree.txt
+06/07/2020  05:26 PM               599 water.txt
+               7 File(s)          1,653 bytes
+               2 Dir(s)  31,483,322,368 bytes free
